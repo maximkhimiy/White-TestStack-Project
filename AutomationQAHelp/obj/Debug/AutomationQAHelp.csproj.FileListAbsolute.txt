@@ -1,0 +1,14 @@
+c:\Users\vmurashko\Documents\Visual Studio 2013\Projects\AutomationQAHelp\AutomationQAHelp\bin\Debug\AutomationQAHelp.dll
+c:\Users\vmurashko\Documents\Visual Studio 2013\Projects\AutomationQAHelp\AutomationQAHelp\bin\Debug\AutomationQAHelp.pdb
+c:\Users\vmurashko\Documents\Visual Studio 2013\Projects\AutomationQAHelp\AutomationQAHelp\bin\Debug\nunit.framework.dll
+c:\Users\vmurashko\Documents\Visual Studio 2013\Projects\AutomationQAHelp\AutomationQAHelp\bin\Debug\nunit.framework.xml
+c:\Users\vmurashko\Documents\Visual Studio 2013\Projects\AutomationQAHelp\AutomationQAHelp\obj\Debug\AutomationQAHelp.csprojResolveAssemblyReference.cache
+c:\Users\vmurashko\Documents\Visual Studio 2013\Projects\AutomationQAHelp\AutomationQAHelp\obj\Debug\AutomationQAHelp.dll
+c:\Users\vmurashko\Documents\Visual Studio 2013\Projects\AutomationQAHelp\AutomationQAHelp\obj\Debug\AutomationQAHelp.pdb
+C:\Users\Frings\Downloads\AutomationQAHelp\AutomationQAHelp\AutomationQAHelp\bin\Debug\AutomationQAHelp.dll
+C:\Users\Frings\Downloads\AutomationQAHelp\AutomationQAHelp\AutomationQAHelp\bin\Debug\AutomationQAHelp.pdb
+C:\Users\Frings\Downloads\AutomationQAHelp\AutomationQAHelp\AutomationQAHelp\bin\Debug\nunit.framework.dll
+C:\Users\Frings\Downloads\AutomationQAHelp\AutomationQAHelp\AutomationQAHelp\bin\Debug\nunit.framework.xml
+C:\Users\Frings\Downloads\AutomationQAHelp\AutomationQAHelp\AutomationQAHelp\obj\Debug\AutomationQAHelp.csprojResolveAssemblyReference.cache
+C:\Users\Frings\Downloads\AutomationQAHelp\AutomationQAHelp\AutomationQAHelp\obj\Debug\AutomationQAHelp.dll
+C:\Users\Frings\Downloads\AutomationQAHelp\AutomationQAHelp\AutomationQAHelp\obj\Debug\AutomationQAHelp.pdb

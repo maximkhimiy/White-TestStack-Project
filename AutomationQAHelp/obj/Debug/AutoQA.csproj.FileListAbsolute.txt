@@ -1,0 +1,14 @@
+C:\Users\Frings\Downloads\AutomationQAHelp\AutomationQAHelp\AutomationQAHelp\bin\Debug\AutomationQAHelp.dll
+C:\Users\Frings\Downloads\AutomationQAHelp\AutomationQAHelp\AutomationQAHelp\bin\Debug\AutomationQAHelp.pdb
+C:\Users\Frings\Downloads\AutomationQAHelp\AutomationQAHelp\AutomationQAHelp\bin\Debug\nunit.framework.dll
+C:\Users\Frings\Downloads\AutomationQAHelp\AutomationQAHelp\AutomationQAHelp\bin\Debug\nunit.framework.xml
+C:\Users\Frings\Downloads\AutomationQAHelp\AutomationQAHelp\AutomationQAHelp\obj\Debug\AutomationQAHelp.dll
+C:\Users\Frings\Downloads\AutomationQAHelp\AutomationQAHelp\AutomationQAHelp\obj\Debug\AutomationQAHelp.pdb
+C:\Users\Frings\Downloads\AutomationQAHelp\AutomationQAHelp\AutomationQAHelp\obj\Debug\AutoQA.csprojResolveAssemblyReference.cache
+C:\Users\Frings\Downloads\AutomationQAHelp\AutoQA\AutomationQAHelp\bin\Debug\AutoQA.dll
+C:\Users\Frings\Downloads\AutomationQAHelp\AutoQA\AutomationQAHelp\bin\Debug\AutoQA.pdb
+C:\Users\Frings\Downloads\AutomationQAHelp\AutoQA\AutomationQAHelp\bin\Debug\nunit.framework.dll
+C:\Users\Frings\Downloads\AutomationQAHelp\AutoQA\AutomationQAHelp\bin\Debug\nunit.framework.xml
+C:\Users\Frings\Downloads\AutomationQAHelp\AutoQA\AutomationQAHelp\obj\Debug\AutoQA.csprojResolveAssemblyReference.cache
+C:\Users\Frings\Downloads\AutomationQAHelp\AutoQA\AutomationQAHelp\obj\Debug\AutoQA.dll
+C:\Users\Frings\Downloads\AutomationQAHelp\AutoQA\AutomationQAHelp\obj\Debug\AutoQA.pdb
